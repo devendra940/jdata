@@ -11,7 +11,8 @@
   ],
   "trainers":[
     {
-      "name":"praveen"
+      "name":"praveen",
+      "experience":13
     }
   ]
 }
