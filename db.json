@@ -8,5 +8,10 @@
       "name":"php",
       "id":13
     }
+  ],
+  "trainers":[
+    {
+      "name":"praveen"
+    }
   ]
 }
